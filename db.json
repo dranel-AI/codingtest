@@ -1,16 +1,10 @@
 {
   "tasks": [
     {
-      "text": "dsad",
-      "day": "dssad",
+      "text": "test task",
+      "day": "Friday, 2 July 2021",
       "reminder": true,
       "id": 1
-    },
-    {
-      "text": "DASDSA",
-      "day": "DSADSADSA",
-      "reminder": false,
-      "id": 2
     }
   ]
 }
